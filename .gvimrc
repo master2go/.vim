@@ -1,4 +1,6 @@
 set guifont=Monaco:h14
+execute pathogen#infect() 
+
 
 "Basic Settings
     set incsearch
